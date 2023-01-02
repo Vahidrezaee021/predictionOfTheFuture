@@ -1,0 +1,24 @@
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: horror , Tahoma;
+}
+
+.inputBox{
+    width: 400px;
+    height: 35px;
+}
+.result{
+    width: 500px;
+    margin: 50px auto;
+    text-align: center;
+    font-size: 50px;
+}
+
+@font-face {
+    font-family: horror;
+    src: url(fonts/horror.otf);
+}
